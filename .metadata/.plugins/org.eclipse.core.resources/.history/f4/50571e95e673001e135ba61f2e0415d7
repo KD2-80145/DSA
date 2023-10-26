@@ -1,0 +1,13 @@
+package com.sunbeam;
+
+public class Solution02Main {
+
+	public static void main(String[] args) {
+		
+		
+		Employee empArr[]=new Employee[5];
+		
+		empArr[0]=new Employee(1,"Zeus",1000);
+	}
+
+}
