@@ -2,7 +2,7 @@ package com.solution.q9;
 
 import java.util.Scanner;
 
-public class Priority {
+public class Priority  {
 
 	public static int operatorsPriority(String opr) {
 		int result = 0;
